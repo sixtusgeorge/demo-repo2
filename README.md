@@ -13,7 +13,7 @@ Open index.html in your browser.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index page</title>
+
 </head>
 <body>
     <h1 style="border: 5px solid red; background-color: aquamarine; color: white;">Hello, my name is Lota and i am 17 years old.</h1>
